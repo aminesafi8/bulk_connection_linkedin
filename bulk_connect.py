@@ -8,7 +8,7 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-linkedin_username = 'amine.safi@esprit.tn'
+linkedin_username = ''
 linkedin_password = ''
 
 
